@@ -13,16 +13,16 @@
 
 # 📚Первый таскпак 
 
-### Задание № 1: Простой калькультр ![](https://github.com/D-one-two-three/rmb/tree/main/screenshots/work1/1.png)
-### Задание № 2: Конвектор температур ![](https://github.com/D-one-two-three/rmb/tree/main/screenshots/work1/2.png)
-### Задание № 3: Генератор случайных чисел ![](https://github.com/D-one-two-three/rmb/tree/main/screenshots/work1/3.png)
-### Задание № 4: Проверка на простое число ![](https://github.com/D-one-two-three/rmb/tree/main/screenshots/work1/4.png)
-### Задание № 5: Счётчик слов ![](https://github.com/D-one-two-three/rmb/tree/main/screenshots/work1/5.png)
-### Задание № 6: Калькультр ИМТ ![](https://github.com/D-one-two-three/rmb/tree/main/screenshots/work1/6.png)
-### Задание № 6: Список задач ![](https://github.com/D-one-two-three/rmb/tree/main/screenshots/work1/7.png)
-### Задание № 8: Угадай число ![](https://github.com/D-one-two-three/rmb/tree/main/screenshots/work1/8.png)
-### Задание № 9: Конвектр валют ![](https://github.com/D-one-two-three/rmb/tree/main/screenshots/work1/9.png)
-### Задание № 10: Проверка палиндрома ![](https://github.com/D-one-two-three/rmb/tree/main/screenshots/work1/10.png)
+### Задание № 1: Простой калькультр ![](https://github.com/D-one-two-three/rmb/tree/main/screenshots/work1/1.PNG)
+### Задание № 2: Конвектор температур ![](https://github.com/D-one-two-three/rmb/tree/main/screenshots/work1/2.PNG)
+### Задание № 3: Генератор случайных чисел ![](https://github.com/D-one-two-three/rmb/tree/main/screenshots/work1/3.PNG)
+### Задание № 4: Проверка на простое число ![](https://github.com/D-one-two-three/rmb/tree/main/screenshots/work1/4.PNG)
+### Задание № 5: Счётчик слов ![](https://github.com/D-one-two-three/rmb/tree/main/screenshots/work1/5.PNG)
+### Задание № 6: Калькультр ИМТ ![](https://github.com/D-one-two-three/rmb/tree/main/screenshots/work1/6.PNG)
+### Задание № 6: Список задач ![](https://github.com/D-one-two-three/rmb/tree/main/screenshots/work1/7.PNG)
+### Задание № 8: Угадай число ![](https://github.com/D-one-two-three/rmb/tree/main/screenshots/work1/8.PNG)
+### Задание № 9: Конвектр валют ![](https://github.com/D-one-two-three/rmb/tree/main/screenshots/work1/9.PNG)
+### Задание № 10: Проверка палиндрома ![](https://github.com/D-one-two-three/rmb/tree/main/screenshots/work1/10.PNG)
 ### Задание № 11: Калькулятор расстояния ![](https://github.com/D-one-two-three/rmb/tree/main/screenshots/work1/11.PNG)
 ### Задание № 12: Генератор паролей ![](https://github.com/D-one-two-three/rmb/tree/main/screenshots/work1/12.PNG)
 ### Задание № 13: Сортировка чисел ![](https://github.com/D-one-two-three/rmb/tree/main/screenshots/work1/13.PNG)
@@ -32,6 +32,7 @@
 ### Задание № 17: Конвектор времени ![](https://github.com/D-one-two-three/rmb/tree/main/screenshots/work1/17.PNG)
 ### Задание № 18: Проверка на четность ![](https://github.com/D-one-two-three/rmb/tree/main/screenshots/work1/18.PNG)
 ### Задание № 19: Калькультр процентов ![](https://github.com/D-one-two-three/rmb/tree/main/screenshots/work1/19.PNG)
+
 
 -----------------------------------------------------------------
 
