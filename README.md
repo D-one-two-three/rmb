@@ -18,7 +18,7 @@
 
 # 📚Первый таскпак 
 
-### таскпак1
+<span style="color: white;"> таскпак1 </span>
 
 ### Задание № 1: Простой калькультр ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work1/1.PNG)
 ### Задание № 2: Конвектор температур ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work1/2.PNG)
