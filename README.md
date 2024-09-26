@@ -13,7 +13,7 @@
 
 # 📚Первый таскпак 
 
-### Задание № 1: Простой калькультр ![](https://github.com/D-one-two-three/rmb/tree/main/screenshots/work1/1.PNG)
+### Задание № 1: Простой калькультр ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work1/1.PNG)
 ### Задание № 2: Конвектор температур ![](https://github.com/D-one-two-three/rmb/tree/main/screenshots/work1/2.PNG)
 ### Задание № 3: Генератор случайных чисел ![](https://github.com/D-one-two-three/rmb/tree/main/screenshots/work1/3.PNG)
 ### Задание № 4: Проверка на простое число ![](https://github.com/D-one-two-three/rmb/tree/main/screenshots/work1/4.PNG)
