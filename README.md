@@ -143,22 +143,22 @@
 ### Индивидуалльное Задание № 3: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/individual-tasks/3.png)
 ### Вывод: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/individual-tasks/3.1.png)
 
-### Индивидуалльное Задание № 1: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/individual-tasks/4.png)
+### Индивидуалльное Задание № 4: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/individual-tasks/4.png)
 ### Вывод: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/individual-tasks/4.1.png)
 
-### Индивидуалльное Задание № 1: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/individual-tasks/5.png)
+### Индивидуалльное Задание № 5: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/individual-tasks/5.png)
 ### Вывод: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/individual-tasks/5.1.png)
 
-### Индивидуалльное Задание № 1: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/individual-tasks/6.png)
+### Индивидуалльное Задание № 6: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/individual-tasks/6.png)
 ### Вывод: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/individual-tasks/6.1.png)
 
-### Индивидуалльное Задание № 1: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/individual-tasks/7.png)
+### Индивидуалльное Задание № 7: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/individual-tasks/7.png)
 ### Вывод: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/individual-tasks/7.1.png)
 
-### Индивидуалльное Задание № 1: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/individual-tasks/8.png)
+### Индивидуалльное Задание № 8: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/individual-tasks/8.png)
 ### Вывод: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/individual-tasks/8.1.png)
 
-### Индивидуалльное Задание № 1: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/individual-tasks/9.png)
+### Индивидуалльное Задание № 9: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/individual-tasks/9.png)
 ### Вывод: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/individual-tasks/9.1.png)
 
 
