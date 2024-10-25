@@ -74,7 +74,7 @@
 # 🍱 Третий таскпак
 ### taskpack3
 
-### Тренировочное Задание № 1: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training tasks/1.png)
+### Тренировочное Задание № 1: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training_tasks/1.png)
 
 # Продолжение следует  :3
 
