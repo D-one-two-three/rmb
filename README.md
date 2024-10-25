@@ -76,7 +76,7 @@
 
 ### Тренировочное Задание № 1: 
 
-![](https://github.com/D-one-two-three/rmb/screenshots/work3/training-tasks/1.jpg)
+![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training-tasks/1.jpg)
 
 ![](https://github.com/D-one-two-three/rmb/screenshots/work3/training-tasks/1.1.jpg)
 
