@@ -74,57 +74,100 @@
 # 🍱 Третий таскпак
 ### taskpack3
 
-### Тренировочное Задание № 1: 
+### Тренировочное Задание № 1: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training-tasks/1.jpg)
+### Вывод: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training-tasks/1.1.jpg)
 
-![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training-tasks/1.jpg)
+### Тренировочное Задание № 2: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training-tasks/2.png)
+### Вывод: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training-tasks/2.1.png)
 
-![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training-tasks/1.1.jpg)
+### Тренировочное Задание № 3: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training-tasks/3.png)
+### Вывод: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training-tasks/3.1.png)
 
-### Тренировочное Задание № 2: 
-
-![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training-tasks/2.png)
-
-![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training-tasks/2.1.png)
-
-### Тренировочное Задание № 3: 
-
-![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training-tasks/3.png)
-
-![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training-tasks/3.1.png)
 ### Тренировочное Задание № 4: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training-tasks/4.png)
-### ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training-tasks/4.1.png)
+### Вывод: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training-tasks/4.1.png)
+
 ### Тренировочное Задание № 5: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training-tasks/5.png)
-### ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training-tasks/5.1.png)
+### Вывод: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training-tasks/5.1.png)
+
 ### Тренировочное Задание № 6: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training-tasks/6.png)
-### ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training-tasks/6.1.png)
+### Вывод: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training-tasks/6.1.png)
+
 ### Тренировочное Задание № 7: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training-tasks/7.png)
-### ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training-tasks/7.1.png)
+### Вывод: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training-tasks/7.1.png)
+
 ### Тренировочное Задание № 8: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training-tasks/8.png)
-### ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training-tasks/8.1.png)
+### Вывод: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training-tasks/8.1.png)
+
 ### Тренировочное Задание № 9: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training-tasks/9.png)
-### ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training-tasks/9.1.png)
+### Вывод: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training-tasks/9.1.png)
+
 ### Тренировочное Задание № 10: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training-tasks/10.png)
-### ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training-tasks/10.1.png)
+### Вывод: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training-tasks/10.1.png)
+
 ### Тренировочное Задание № 11: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training-tasks/11.png)
-### ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training-tasks/11.1.png)
+### Вывод: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training-tasks/11.1.png)
+
 ### Тренировочное Задание № 12: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training-tasks/12.png)
-### ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training-tasks/12.1.png)
+### Вывод: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training-tasks/12.1.png)
+
 ### Тренировочное Задание № 13: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training-tasks/13.png)
-### ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training-tasks/13.1.png)
+### Вывод: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training-tasks/13.1.png)
+
 ### Тренировочное Задание № 14: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training-tasks/14.png)
-### ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training-tasks/14.1.png)
+### Вывод: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training-tasks/14.1.png)
+
 ### Тренировочное Задание № 15: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training-tasks/15.png)
-### ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training-tasks/15.1.png)
+### Вывод: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training-tasks/15.1.png)
+
 ### Тренировочное Задание № 16: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training-tasks/16.png)
-### ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training-tasks/16.1.png)
+### Вывод: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training-tasks/16.1.png)
+
 ### Тренировочное Задание № 17: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training-tasks/17.png)
-### ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training-tasks/17.1.png)
+### Вывод: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training-tasks/17.1.png)
+
 ### Тренировочное Задание № 18: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training-tasks/18.png)
-### ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training-tasks/18.1.png)
+### Вывод: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training-tasks/18.1.png)
+
 ### Тренировочное Задание № 19: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training-tasks/19.png)
-### ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training-tasks/19.1.png)
+### Вывод: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training-tasks/19.1.png)
+
 ### Тренировочное Задание № 20: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training-tasks/20.png)
-### ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training-tasks/20.1.png)
+### Вывод: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/training-tasks/20.1.png)
+-----------------------------------------------------------------
+### Индивидуалльное Задание № 1: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/individual-tasks/1.png)
+### Вывод: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/individual-tasks/1.1.png)
+
+### Индивидуалльное Задание № 2: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/individual-tasks/2.png)
+### Вывод: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/individual-tasks/2.1.png)
+
+### Индивидуалльное Задание № 3: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/individual-tasks/3.png)
+### Вывод: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/individual-tasks/3.1.png)
+
+### Индивидуалльное Задание № 1: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/individual-tasks/4.png)
+### Вывод: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/individual-tasks/4.1.png)
+
+### Индивидуалльное Задание № 1: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/individual-tasks/5.png)
+### Вывод: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/individual-tasks/5.1.png)
+
+### Индивидуалльное Задание № 1: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/individual-tasks/6.png)
+### Вывод: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/individual-tasks/6.1.png)
+
+### Индивидуалльное Задание № 1: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/individual-tasks/7.png)
+### Вывод: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/individual-tasks/7.1.png)
+
+### Индивидуалльное Задание № 1: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/individual-tasks/8.png)
+### Вывод: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/individual-tasks/8.1.png)
+
+### Индивидуалльное Задание № 1: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/individual-tasks/9.png)
+### Вывод: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/individual-tasks/9.1.png)
+
+
+
+
+
+
+
+
 
 # Продолжение следует  :3
 
