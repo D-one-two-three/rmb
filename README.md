@@ -162,6 +162,111 @@
 ### Вывод: ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work3/individual-tasks/9.1.png)
 
 
+-----------------------------------------------------------------
+
+# 🍱 Четвертый таскпак
+### taskpack4
+
+### Тренировочное Задание № 1: 
+![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work4/1.PNG)
+
+### Тренировочное Задание № 2: 
+![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work4/2.PNG)
+
+### Тренировочное Задание № 3: 
+![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work4/3.PNG)
+
+### Тренировочное Задание № 4: 
+![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work4/4.PNG)
+
+### Тренировочное Задание № 5: 
+![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work4/5.PNG)
+
+### Тренировочное Задание № 6: 
+![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work4/6.PNG)
+
+### Тренировочное Задание № 7: 
+![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work4/7.PNG)
+
+### Тренировочное Задание № 8: 
+![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work4/8.PNG)
+
+### Тренировочное Задание № 9: 
+![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work4/9.PNG)
+
+### Тренировочное Задание № 10: 
+![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work4/10.PNG)
+
+### Тренировочное Задание № 11: 
+![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work4/11.PNG)
+
+### Тренировочное Задание № 12: 
+![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work4/12.PNG)
+
+### Тренировочное Задание № 13:
+![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work4/13.PNG)
+
+### Тренировочное Задание № 14: 
+![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work4/14.PNG)
+
+### Тренировочное Задание № 15: 
+![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work4/15.PNG)
+
+### Тренировочное Задание № 16: 
+![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work4/16.PNG)
+
+### Тренировочное Задание № 17: 
+![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work4/17.PNG)
+
+### Тренировочное Задание № 18: 
+![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work4/18.PNG)
+
+### Тренировочное Задание № 19: 
+![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work4/19.PNG)
+
+### Тренировочное Задание № 20: 
+![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work4/20.PNG)
+
+-----------------------------------------------------------------
+
+### Задания базового уровня № 1: 
+![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work4/bz1.PNG)
+
+### Задания базового уровня № 2: 
+![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work4/bz2.PNG)
+### Задания базового уровня № 3: 
+![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work4/bz3.PNG)
+
+-----------------------------------------------------------------
+
+### Задания среднего уровня № 1: 
+![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work4/sr1.PNG)
+
+### Задания среднего уровня № 2: 
+![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work4/sr2.PNG)
+
+### Задания среднего уровня № 3: 
+![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work4/sr3.PNG)
+
+-----------------------------------------------------------------
+
+### Задания продвинутого уровня № 1: 
+![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work4/21.PNG)
+
+### Задания продвинутого уровня № 2: 
+![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work4/22.PNG)
+
+### Задания продвинутого уровня № 3: 
+![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work4/23.PNG)
+
+### Задания продвинутого уровня № 4: 
+![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work4/24.PNG)
+
+### Задания продвинутого уровня № 5-19: 
+![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work4/25.PNG)
+
+-----------------------------------------------------------------
+
 
 
 
