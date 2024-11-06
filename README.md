@@ -234,6 +234,8 @@
 
 ### Задания базового уровня № 2: 
 ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work4/bz2.PNG)
+
+https://sun9-75.userapi.com/impg/c854016/v854016850/18b5b2/POceTH7sHcg.jpg?size=1600x960&quality=96&sign=83306f1ed95c99181dfe2e754923f8e0&type=album
 ### Задания базового уровня № 3: 
 ![](https://github.com/D-one-two-three/rmb/blob/main/screenshots/work4/bz3.PNG)
 
